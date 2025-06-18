@@ -4,6 +4,8 @@ A Python script that automates sending messages on Instagram using web automatio
 This tool is built for educational and personal productivity purposes, making it easier to send predefined messages to Instagram users.
 
 ---
+## Screen recording video 
+https://drive.google.com/file/d/10F908MYbDVKhHSsCMDAImSNMeHUKElvl/view?usp=sharing
 
 ## 📖 About
 
